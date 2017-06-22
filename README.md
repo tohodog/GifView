@@ -4,6 +4,7 @@ Android安卓gif动图播放,支持8种缩放模式,速度调节,播放停止等
 ## 使用
 ```
 <com.song.GifView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/gif_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -24,5 +25,5 @@ public void stop();//
 public boolean isPlaying();//
 ```
 
-[ **[DEMO APK]** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
+[ **DEMO APK** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
 ![输入图片说明](http://raw.githubusercontent.com/tohodog/GifView/master/demo.jpg "在这里输入图片标题")
