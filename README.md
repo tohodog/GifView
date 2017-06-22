@@ -27,4 +27,4 @@ public boolean isPlaying();//
 
 [ **DEMO APK** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
 <br>
-![](http://raw.githubusercontent.com/tohodog/GifView/master/demo.jpg)
+![](https://github.com//tohodog/GifView/raw/master/demo.jpg)
