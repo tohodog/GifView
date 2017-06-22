@@ -24,5 +24,5 @@ public void stop();//
 public boolean isPlaying();//
 ```
 
-##[ **[DEMO APK]** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
+[ **[DEMO APK]** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
 ![输入图片说明](http://raw.githubusercontent.com/tohodog/GifView/master/demo.jpg "在这里输入图片标题")
