@@ -25,6 +25,7 @@ public void stop();//
 public boolean isPlaying();//
 ```
 
-[ **DEMO APK** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
+[ **demo.apk** ](https://raw.githubusercontent.com/tohodog/GifView/master/gifdemo.apk)
+<br>
 <br>
 ![](https://github.com//tohodog/GifView/raw/master/demo.jpg)
